@@ -1,0 +1,10 @@
+Seb;1;10.1
+Haleema;2;9.2
+Ted;3;8.3
+Bobbie;4;7.4
+Rheanna;5;6.5
+Khadeeja;6;5.6
+Haris;7;4.7
+Dawid;8;3.8
+Abdallah;9;2.9
+Anis;10;2.11
